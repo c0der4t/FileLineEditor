@@ -236,8 +236,8 @@ namespace FileLineEditor
                 }
             }
 
-           
-            CheckLicense();
+            /*Disable registration checking. This can be added in the future if needed*/
+            //CheckLicense();
         }
 
         public void CheckLicense()
